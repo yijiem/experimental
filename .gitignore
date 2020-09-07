@@ -5,3 +5,5 @@
 *.swp
 
 test
+setjmp_vars
+setjmp_vars.s
