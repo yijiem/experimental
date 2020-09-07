@@ -4,6 +4,7 @@
 *.o
 *.swp
 
+compile_commands.json
 test
 setjmp_vars
 setjmp_vars.s
